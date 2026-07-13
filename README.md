@@ -7,6 +7,7 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaadBinafif/LeetCode/tree/master/0001-two-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/SaadBinafif/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -16,4 +17,8 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SaadBinafif/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
