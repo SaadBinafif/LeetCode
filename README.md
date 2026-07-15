@@ -7,6 +7,7 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaadBinafif/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SaadBinafif/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SaadBinafif/LeetCode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SaadBinafif/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -28,4 +29,8 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SaadBinafif/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SaadBinafif/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
