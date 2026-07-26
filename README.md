@@ -30,6 +30,7 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SaadBinafif/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/SaadBinafif/LeetCode/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
@@ -41,6 +42,7 @@ My solutions to LeetCode problems in Java.
 | [0033-search-in-rotated-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaadBinafif/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SaadBinafif/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
