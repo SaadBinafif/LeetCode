@@ -11,6 +11,7 @@ My solutions to LeetCode problems in Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaadBinafif/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SaadBinafif/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/SaadBinafif/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -25,6 +26,7 @@ My solutions to LeetCode problems in Java.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SaadBinafif/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SaadBinafif/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ My solutions to LeetCode problems in Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaadBinafif/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaadBinafif/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SaadBinafif/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
