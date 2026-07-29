@@ -12,6 +12,7 @@ My solutions to LeetCode problems in Java.
 | [0035-search-insert-position](https://github.com/SaadBinafif/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SaadBinafif/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SaadBinafif/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
@@ -57,4 +58,12 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
