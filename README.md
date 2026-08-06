@@ -16,6 +16,7 @@ My solutions to LeetCode problems in Java.
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaadBinafif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -27,6 +28,7 @@ My solutions to LeetCode problems in Java.
 | ------- |
 | [0001-two-sum](https://github.com/SaadBinafif/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
 | ------- |
