@@ -15,6 +15,7 @@ My solutions to LeetCode problems in Java.
 | [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaadBinafif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -25,6 +26,7 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaadBinafif/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +38,7 @@ My solutions to LeetCode problems in Java.
 | ------- |
 | [0066-plus-one](https://github.com/SaadBinafif/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SaadBinafif/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
@@ -51,6 +54,7 @@ My solutions to LeetCode problems in Java.
 | [0074-search-a-2d-matrix](https://github.com/SaadBinafif/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaadBinafif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,4 +70,9 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
