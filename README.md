@@ -41,6 +41,7 @@ My solutions to LeetCode problems in Java.
 | [0258-add-digits](https://github.com/SaadBinafif/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/SaadBinafif/LeetCode/tree/master/2235-add-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
