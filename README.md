@@ -67,6 +67,7 @@ My solutions to LeetCode problems in Java.
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadBinafif/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/SaadBinafif/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SaadBinafif/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaadBinafif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -108,4 +109,8 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SaadBinafif/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SaadBinafif/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
