@@ -115,4 +115,8 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SaadBinafif/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/SaadBinafif/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
