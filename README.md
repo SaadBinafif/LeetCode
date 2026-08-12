@@ -35,6 +35,7 @@ My solutions to LeetCode problems in Java.
 | [0041-first-missing-positive](https://github.com/SaadBinafif/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaadBinafif/LeetCode/tree/master/0645-set-mismatch) |
@@ -91,6 +92,7 @@ My solutions to LeetCode problems in Java.
 | [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaadBinafif/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +101,7 @@ My solutions to LeetCode problems in Java.
 | ------- |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadBinafif/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/SaadBinafif/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -125,4 +128,5 @@ My solutions to LeetCode problems in Java.
 | ------- |
 | [0058-length-of-last-word](https://github.com/SaadBinafif/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
