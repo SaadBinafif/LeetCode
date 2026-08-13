@@ -28,6 +28,7 @@ My solutions to LeetCode problems in Java.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SaadBinafif/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SaadBinafif/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2418-sort-the-people](https://github.com/SaadBinafif/LeetCode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My solutions to LeetCode problems in Java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaadBinafif/LeetCode/tree/master/0645-set-mismatch) |
+| [2418-sort-the-people](https://github.com/SaadBinafif/LeetCode/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@ My solutions to LeetCode problems in Java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaadBinafif/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/SaadBinafif/LeetCode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +132,7 @@ My solutions to LeetCode problems in Java.
 | [0058-length-of-last-word](https://github.com/SaadBinafif/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
+| [2418-sort-the-people](https://github.com/SaadBinafif/LeetCode/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
 | ------- |
