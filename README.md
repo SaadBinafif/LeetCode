@@ -129,4 +129,12 @@ My solutions to LeetCode problems in Java.
 | [0058-length-of-last-word](https://github.com/SaadBinafif/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
