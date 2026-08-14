@@ -25,6 +25,7 @@ My solutions to LeetCode problems in Java.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaadBinafif/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaadBinafif/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/SaadBinafif/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaadBinafif/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SaadBinafif/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SaadBinafif/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -98,6 +99,7 @@ My solutions to LeetCode problems in Java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaadBinafif/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaadBinafif/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaadBinafif/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/SaadBinafif/LeetCode/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/SaadBinafif/LeetCode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
@@ -141,4 +143,9 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/SaadBinafif/LeetCode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SaadBinafif/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
