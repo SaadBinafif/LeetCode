@@ -16,6 +16,7 @@ My solutions to LeetCode problems in Java.
 | [0074-search-a-2d-matrix](https://github.com/SaadBinafif/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/SaadBinafif/LeetCode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/SaadBinafif/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaadBinafif/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadBinafif/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@ My solutions to LeetCode problems in Java.
 | ------- |
 | [0001-two-sum](https://github.com/SaadBinafif/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SaadBinafif/LeetCode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/SaadBinafif/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
@@ -95,6 +97,7 @@ My solutions to LeetCode problems in Java.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaadBinafif/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/SaadBinafif/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaadBinafif/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaadBinafif/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SaadBinafif/LeetCode/tree/master/0389-find-the-difference) |
